@@ -17,7 +17,12 @@ SQL: Core technology for querying and analyzing the Chinook database.
 
 📁 Files in the Repository
 
-
+AMIT_CHINOOK_PPT.pptx
+Chinook_Final_Query_by_Amit.sql
+Chinook_Project_by_Amit.rar
+README.md
+Tasks-Chinook Ques-ans by Amit Kumar.docx
+chart and output result.xlsx
 
 📊 Insights
 
